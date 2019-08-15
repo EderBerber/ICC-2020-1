@@ -1,3 +1,3 @@
 # ICC-2020-1
-# Berber GUtiérrez Eder Samuel
+# Berber Gutiérrez Eder Samuel
 # 317075292
