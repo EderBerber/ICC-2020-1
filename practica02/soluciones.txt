@@ -1,0 +1,13 @@
+Línea 9: Se escribió mal la palabra "boolean". Cambié la N mayúscula por minúscula (boolean).
+Línea 9: Se escribió mal el 0, boolean no convierte enteros. Cambié el 0 por true.
+Línea 10: Se escribió mal el 128, ocho bits son <=127. Cambié el 128 por 123.
+Línea 11: Se escribió mal short, puesto que el número entero no se puede calcular con uno tan corto. Cambié el short por int.
+Línea 14: Se escribió mal la declaración long, puesto que el resultado incluye decimales (double). Cambié el long por el double.
+Línea 14: Se escribió mal Discriminante. Cambié la mayúscula por la minúscula (discriminante).
+Línea 17: Esa línea está mal escrita, tiene Char (con mayúscula). Cambié Char por char.
+Línea 18: Le faltaba el 1 al "ch". Le escribí el 1 para que sea "ch1".
+Línea 18: Se escribió comillas en lugar del apóstrofe. Cambíe las comillas por la apóstrofe.
+
+error de ejecución:
+
+En la línea 20, se estaba dividiendo entre 0. Le puse un if, para que la operación se haga cuando sea diferente a cero, y así no lo borramos.
