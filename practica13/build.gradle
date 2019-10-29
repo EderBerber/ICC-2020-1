@@ -1,0 +1,13 @@
+plugins {
+	id 'java'
+	id 'application'
+}
+
+application {
+	mainClassName = 'app4.Tab'
+}
+
+dependencies {
+	implementation fileTree(dir: 'lib',
+				include: ['*.jar'])
+}
