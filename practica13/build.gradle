@@ -7,7 +7,11 @@ application {
 	mainClassName = 'app4.Tab'
 }
 
+repositories {
+	jcenter()
+}
+
 dependencies {
-	implementation fileTree(dir: 'lib',
-				include: ['*.jar'])
+	//implementation 'org.knowm.xchart:xchart:3.6.0'
+	implementation fileTree(dir: 'lib', include: ['*.jar'])
 }
